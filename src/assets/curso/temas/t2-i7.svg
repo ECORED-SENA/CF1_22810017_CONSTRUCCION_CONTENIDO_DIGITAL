@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="152" viewBox="0 0 400 152">
+  <g id="t2-i7" transform="translate(-600 -1791)">
+    <rect id="Rectangle_5393" data-name="Rectangle 5393" width="400" height="88.194" rx="10" transform="translate(600 1854.807)" fill="#c7f9cc"/>
+    <g id="Group_53825" data-name="Group 53825" transform="translate(-854 2992)">
+      <rect id="Rectangle_5471" data-name="Rectangle 5471" width="181" height="128" transform="translate(1564 -1201)" fill="none"/>
+      <g id="Group_53824" data-name="Group 53824">
+        <path id="Path_100558" data-name="Path 100558" d="M1576.817-1201h155.366v128H1576.817Z" fill="#e6e7e8"/>
+        <path id="Path_100559" data-name="Path 100559" d="M1583.693-1194.123h141.6v68.045h-141.6Z" fill="#57cc99"/>
+        <path id="Path_100560" data-name="Path 100560" d="M1583.693-1141.291v15.213H1687.4a45.85,45.85,0,0,0-7.167-6.739c-7.4-5.687-51.969-9.981-62.737-11.886C1604.863-1146.921,1592.928-1145.471,1583.693-1141.291Z" fill="#d6a636"/>
+        <path id="Path_100561" data-name="Path 100561" d="M1607.721-1126.078H1725.3v-24.966c-10.8-6.312-31.783-7.232-54.3-4.956s-49.5,11.866-58.578,23.183A58.679,58.679,0,0,0,1607.721-1126.078Z" fill="#ffc94a"/>
+        <circle id="Ellipse_4095" data-name="Ellipse 4095" cx="11.093" cy="11.093" r="11.093" transform="translate(1593.249 -1188.698)" fill="#feed32"/>
+        <g id="Group_53823" data-name="Group 53823">
+          <path id="Path_100562" data-name="Path 100562" d="M1583.7-1120.179h141.6v2.237H1583.7Z" fill="#dad7dc"/>
+          <path id="Path_100563" data-name="Path 100563" d="M1583.7-1111.769h100.791v2.238H1583.7Z" fill="#dad7dc"/>
+          <path id="Path_100564" data-name="Path 100564" d="M1583.7-1103.359h100.791v2.238H1583.7Z" fill="#dad7dc"/>
+          <path id="Path_100565" data-name="Path 100565" d="M1583.7-1094.949h100.791v2.238H1583.7Z" fill="#dad7dc"/>
+          <path id="Path_100566" data-name="Path 100566" d="M1583.7-1086.538h100.791v2.237H1583.7Z" fill="#dad7dc"/>
+        </g>
+        <circle id="Ellipse_4096" data-name="Ellipse 4096" cx="13.565" cy="13.565" r="13.565" transform="translate(1698.167 -1111.43)" fill="#263b4d"/>
+        <path id="Path_100567" data-name="Path 100567" d="M1711.731-1107.887a10.021,10.021,0,0,0-10.021,10.021,10.021,10.021,0,0,0,10.021,10.022,10.021,10.021,0,0,0,10.021-10.022A10.021,10.021,0,0,0,1711.731-1107.887Zm0,17.83a7.809,7.809,0,0,1-7.809-7.809,7.808,7.808,0,0,1,7.809-7.808,7.809,7.809,0,0,1,7.809,7.808A7.809,7.809,0,0,1,1711.731-1090.057Z" fill="#57cc99"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -3,12 +3,17 @@
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 40%
-    right: 50%
+    left: 10%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    bottom: 8%
+    left: 42%
+  &-3
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
+    right: 16%
+    top: 35%
 
 
 @keyframes float1
@@ -17,3 +22,27 @@
 
   100%
     transform: translateY(0px)
+
+//Banners
+.banner-principal .tarjeta
+  @media screen and (max-width: $bp-max-md)
+    background-position: right top
+
+.banner-interno
+  height: 160px
+  .banner-interno__fondo
+    background-position: right
+    background-image: url(../assets/curso/fondo_tema.png) !important
+
+.cajon.color-primario
+  background-color: #DFFBE5
+.cajon.color-primario:before
+  background-color: #80ED99
+
+.separador
+  background-image: url('../assets/curso/temas/separador.png')
+  background-repeat: no-repeat
+  background-position: center center
+  background-size: 60%
+.separador:after
+  display: none !important

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="152.373" viewBox="0 0 400 152.373">
+  <g id="t2-i9" transform="translate(-390 -2037.177)">
+    <rect id="Rectangle_5392" data-name="Rectangle 5392" width="400" height="88.194" rx="10" transform="translate(390 2101.356)" fill="#c7f9cc"/>
+    <g id="Group_53818" data-name="Group 53818" transform="translate(-857 2931.536)">
+      <rect id="Rectangle_5459" data-name="Rectangle 5459" width="181" height="128" transform="translate(1357 -894)" fill="none"/>
+      <g id="Group_53817" data-name="Group 53817">
+        <path id="Path_100545" data-name="Path 100545" d="M1484.9-837.391H1373.675a2.875,2.875,0,0,0-2.874,2.875v65.642a2.874,2.874,0,0,0,2.874,2.874H1484.9a2.875,2.875,0,0,0,2.875-2.874v-65.642A2.875,2.875,0,0,0,1484.9-837.391Z" fill="#263b4d"/>
+        <path id="Path_100546" data-name="Path 100546" d="M1484.9-839.961H1373.675a2.875,2.875,0,0,0-2.874,2.875v65.641a2.875,2.875,0,0,0,2.874,2.875H1484.9a2.875,2.875,0,0,0,2.875-2.875v-65.641A2.875,2.875,0,0,0,1484.9-839.961Z" fill="#22577a"/>
+        <path id="Path_100547" data-name="Path 100547" d="M1487.777-822.648v36.765l27.787,13.419v-63.6Z" fill="#263b4d"/>
+        <rect id="Rectangle_5460" data-name="Rectangle 5460" width="8.64" height="63.602" transform="translate(1515.559 -836.07)" fill="#22577a"/>
+        <rect id="Rectangle_5461" data-name="Rectangle 5461" width="60.243" height="37.139" transform="translate(1379.819 -831.108)" fill="#ffc94a"/>
+        <rect id="Rectangle_5462" data-name="Rectangle 5462" width="60.243" height="3.125" transform="translate(1379.819 -797.09)" fill="#d6a636"/>
+        <circle id="Ellipse_4075" data-name="Ellipse 4075" cx="4.273" cy="4.273" r="4.273" transform="translate(1448.932 -783.677)" fill="#80ed99"/>
+        <circle id="Ellipse_4076" data-name="Ellipse 4076" cx="4.273" cy="4.273" r="4.273" transform="translate(1462.307 -783.677)" fill="#ffc94a"/>
+        <circle id="Ellipse_4077" data-name="Ellipse 4077" cx="21.649" cy="21.649" r="21.649" transform="translate(1382.563 -883.259)" fill="#22577a"/>
+        <circle id="Ellipse_4078" data-name="Ellipse 4078" cx="6.586" cy="6.586" r="6.586" transform="translate(1397.626 -868.196)" fill="#fff"/>
+        <g id="Group_53815" data-name="Group 53815">
+          <circle id="Ellipse_4079" data-name="Ellipse 4079" cx="3.85" cy="3.85" r="3.85" transform="translate(1400.362 -880.174)" fill="#fff"/>
+          <circle id="Ellipse_4080" data-name="Ellipse 4080" cx="3.85" cy="3.85" r="3.85" transform="translate(1400.362 -850.743)" fill="#fff"/>
+          <circle id="Ellipse_4081" data-name="Ellipse 4081" cx="3.85" cy="3.85" r="3.85" transform="translate(1387.62 -858.103)" fill="#fff"/>
+          <circle id="Ellipse_4082" data-name="Ellipse 4082" cx="3.85" cy="3.85" r="3.85" transform="translate(1413.11 -872.819)" fill="#fff"/>
+          <circle id="Ellipse_4083" data-name="Ellipse 4083" cx="3.85" cy="3.85" r="3.85" transform="translate(1413.108 -858.111)" fill="#fff"/>
+        </g>
+        <circle id="Ellipse_4084" data-name="Ellipse 4084" cx="3.85" cy="3.85" r="3.85" transform="translate(1387.62 -872.816)" fill="#fff"/>
+        <circle id="Ellipse_4085" data-name="Ellipse 4085" cx="27.199" cy="27.199" r="27.199" transform="translate(1425.861 -894.359)" fill="#22577a"/>
+        <circle id="Ellipse_4086" data-name="Ellipse 4086" cx="6.586" cy="6.586" r="6.586" transform="translate(1446.474 -873.746)" fill="#2f4859"/>
+        <g id="Group_53816" data-name="Group 53816">
+          <circle id="Ellipse_4087" data-name="Ellipse 4087" cx="4.709" cy="4.709" r="4.709" transform="translate(1448.35 -889.877)" fill="#fff"/>
+          <circle id="Ellipse_4088" data-name="Ellipse 4088" cx="4.709" cy="4.709" r="4.709" transform="translate(1448.35 -853.857)" fill="#fff"/>
+          <circle id="Ellipse_4089" data-name="Ellipse 4089" cx="4.709" cy="4.709" r="4.709" transform="translate(1432.749 -862.865)" fill="#fff"/>
+          <circle id="Ellipse_4090" data-name="Ellipse 4090" cx="4.709" cy="4.709" r="4.709" transform="translate(1463.94 -880.871)" fill="#fff"/>
+          <circle id="Ellipse_4091" data-name="Ellipse 4091" cx="4.709" cy="4.709" r="4.709" transform="translate(1463.94 -862.866)" fill="#fff"/>
+          <circle id="Ellipse_4092" data-name="Ellipse 4092" cx="4.709" cy="4.709" r="4.709" transform="translate(1432.753 -880.868)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

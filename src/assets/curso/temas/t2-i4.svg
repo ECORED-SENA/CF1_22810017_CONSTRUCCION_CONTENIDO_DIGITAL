@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="152.551" viewBox="0 0 400 152.551">
+  <g id="t2-i4" transform="translate(-390 -1221)">
+    <rect id="Rectangle_5403" data-name="Rectangle 5403" width="400" height="88.194" rx="10" transform="translate(390 1285.357)" fill="#c7f9cc"/>
+    <g id="Group_53794" data-name="Group 53794" transform="translate(-1061 2115)">
+      <rect id="Rectangle_5416" data-name="Rectangle 5416" width="181" height="128" transform="translate(1561 -894)" fill="none"/>
+      <g id="Group_53793" data-name="Group 53793">
+        <path id="Path_100507" data-name="Path 100507" d="M1683.4-894h-87.232a4.676,4.676,0,0,0-4.676,4.676v118.648a4.677,4.677,0,0,0,4.676,4.676H1706.83a4.676,4.676,0,0,0,4.677-4.676v-95.218Z" fill="#ebf0f3"/>
+        <path id="Path_100508" data-name="Path 100508" d="M1683.4-894v23.429a4.677,4.677,0,0,0,4.676,4.677h23.43Z" fill="#d5d6db"/>
+        <rect id="Rectangle_5417" data-name="Rectangle 5417" width="106.053" height="12.189" transform="translate(1598.476 -785.174)" fill="#22577a"/>
+        <rect id="Rectangle_5418" data-name="Rectangle 5418" width="106.053" height="79.253" transform="translate(1598.476 -864.427)" fill="#57cc99"/>
+        <rect id="Rectangle_5419" data-name="Rectangle 5419" width="98.04" height="3.065" transform="translate(1602.482 -780.614)" fill="#263b4d"/>
+        <circle id="Ellipse_4056" data-name="Ellipse 4056" cx="3.057" cy="3.057" r="3.057" transform="translate(1628.106 -782.137)" fill="#ebf0f3"/>
+        <circle id="Ellipse_4057" data-name="Ellipse 4057" cx="1.595" cy="1.595" r="1.595" transform="translate(1629.569 -780.675)" fill="#d5d6db"/>
+        <path id="Path_100509" data-name="Path 100509" d="M1670.357-846.1l-28.688,8.245v25.861a7.8,7.8,0,0,0-4.206.09c-3.24.94-5.345,3.505-4.7,5.731s3.795,3.269,7.035,2.33c2.805-.813,4.75-2.844,4.807-4.818h.021v-20.65l22.773-6.543v16.7a7.788,7.788,0,0,0-4.2.092c-3.24.939-5.345,3.505-4.7,5.731s3.8,3.269,7.035,2.33c2.915-.844,4.891-3,4.794-5.049h.022V-846.1Z" fill="#ffc94a"/>
+        <rect id="Rectangle_5420" data-name="Rectangle 5420" width="49.303" height="4.655" transform="translate(1598.477 -887.759)" fill="#57cc99"/>
+        <rect id="Rectangle_5421" data-name="Rectangle 5421" width="66.773" height="4.655" transform="translate(1598.477 -876.74)" fill="#d5d6db"/>
+      </g>
+    </g>
+  </g>
+</svg>
