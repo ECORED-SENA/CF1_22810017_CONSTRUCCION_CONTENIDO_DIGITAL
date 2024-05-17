@@ -279,11 +279,11 @@ export default {
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
-        {
+        /* {
           nombre: 'Nombre responsable',
           cargo: 'Nombre del rol',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        }, */
       ],
     },
     {

@@ -46,3 +46,51 @@
   background-size: 60%
 .separador:after
   display: none !important
+
+.fondo-color-sistema-i
+  background-color: $color-sistema-i !important
+.fondo-color-sistema-h
+  background-color: $color-sistema-h !important
+
+.lista-personalizada-1
+  li
+    display: flex
+    margin-bottom: 10px
+
+.tabs-c__tab--active span
+  font-weight: 700
+
+.tabs-c__tab--active
+  border-color: #22577A !important
+.tabs-c__tab--active:before
+  border-top-color: #22577A !important
+
+.tabla-blur
+  display: flex
+  align-items: center
+  cursor: pointer
+  &__img
+    width: 50%
+
+  &__text
+    padding: 10px
+    width: 50%
+    filter: blur(10px)
+    // opacity: 0
+    transition: filter 0.3s ease-in-out, opacity 0.1s ease-in-out
+    *
+      color: $color-secundario !important
+      transition: color 0.3s ease-in-out
+  &:hover
+    .tabla-blur__text
+      // opacity: 1
+      filter: blur(0px)
+      *
+        color: $color-sistema-texto !important
+  &--reverse
+    flex-direction: row-reverse
+    .tabla-blur__text
+      text-align: right
+
+.borde-11
+  border-radius: 11px !important

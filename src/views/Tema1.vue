@@ -8,7 +8,7 @@
       h1 Conceptos básicos y características del contenido digital
     
     .row.mb-5(data-aos="fade-up")
-      .col-lg-3
+      .col-lg-3.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/temas/t1-i1.svg')
       .col-lg-9
