@@ -289,7 +289,7 @@ export default {
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
-        {
+        /* {
           nombre: 'Nombre responsable',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
@@ -308,13 +308,13 @@ export default {
           nombre: 'Nombre',
           cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        }, */
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
+        /* {
           nombre: 'Luis Gabriel Urueta Alvarez',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
@@ -323,17 +323,17 @@ export default {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        }, */
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
+        /* {
           nombre: 'Margarita Marcela Medrano Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
+        }, */
       ],
     },
   ],
