@@ -266,7 +266,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -332,6 +332,11 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
+        {
+          nombre: 'Luis Gabriel Urueta Alvarez',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Margarita Marcela Medrano Gómez',
           cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
