@@ -229,7 +229,7 @@ export default {
     {
       termino: '<em>Stitching</em>',
       significado:
-        'Proceso por el cual se combinan múltiples imágenes (foto stiching) para producir una imagen panorámica o una de alta resolución, normalmente mediante un programa de ordenador.',
+        'Proceso por el cual se combinan múltiples imágenes (foto <em>stiching</em>) para producir una imagen panorámica o una de alta resolución, normalmente mediante un programa de ordenador.',
     },
     {
       termino: '<em>Storytelling</em>',
@@ -266,7 +266,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Líder del Ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -279,61 +279,69 @@ export default {
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
-        /* {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+        {
+          nombre: 'Jesualdo Morantes',
+          cargo: 'Instructor',
+          centro: 'SENA - Regional Norte de Santander',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor metodológico y pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        }, */
+        },
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
-        /* {
-          nombre: 'Nombre responsable',
+        {
+          nombre: 'Yerson Fabián Zárate Saavedra',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jorge Armando Villamizar Moreno',
+          cargo: 'Diseño web',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Edwin Sneider Velandia Suárez',
           cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Edgar Mauricio Cortés García',
+          cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        }, */
+          nombre: 'Luis Fabian Robles Méndez',
+          cargo: 'Desarrollo Front-end',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        /* {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
+        {
+          nombre: 'Margarita Marcela Medrano Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        {
-          nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        }, */
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
-        /* {
-          nombre: 'Margarita Marcela Medrano Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        }, */
       ],
     },
   ],

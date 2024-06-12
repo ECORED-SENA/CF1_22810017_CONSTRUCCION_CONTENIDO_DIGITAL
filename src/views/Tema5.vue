@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 4
+        span 5
       h1 Derechos de autor
 
     p.mb-4 Lo invitamos a consultar el siguiente video, para conocer qué son los derechos de autor.
