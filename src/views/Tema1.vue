@@ -18,10 +18,11 @@
           | Por ello, se recomienda que vea el siguiente video, en el cual 
           b se explicarán los conceptos básicos y las características del contenido digital.
 
-    figure
-      img.mb-5(src="@/assets/curso/temas/img-video-temporal.png")
-      //.video.mb-5
-      //  iframe...
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/3dU9hPchEf8?si=DaL-PXk-IIHrf_WY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center
       .col-lg-7

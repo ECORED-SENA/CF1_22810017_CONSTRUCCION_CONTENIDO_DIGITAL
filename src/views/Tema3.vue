@@ -18,10 +18,11 @@
           | y, para hacerlo, es vital definir los objetivos que se desean alcanzar.
     p.mb-4 En el siguiente video, conoceremos qué son los objetivos de comunicación asociados al contenido digital, y analizaremos un ejemplo.
 
-    figure
-      img.mb-5(src="@/assets/curso/temas/img-video-temporal.png")
-      //.video.mb-5
-      //  iframe...
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/HCa2w6Od6LY?si=N7iRwAFTZ5rPyyg_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center
       .col-lg-10

@@ -19,7 +19,7 @@
 
     figure(data-aos="fade-up")
       .video.mb-5
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/p7ZwZhSjqTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/SFR7uBY4o0A?si=jEGH37KZgOIrblou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mb-4(data-aos="fade-up")
       .col-lg-4
