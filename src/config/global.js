@@ -219,7 +219,7 @@ export default {
     {
       termino: 'Pódcast',
       significado:
-        'Publicación digital en audio o video que se puede descargar o escuchar vía streaming. Suele alojarse en una página web o blog, pero también en plataformas especializadas en audio como itunes, spotify o soundcloud.',
+        'Publicación digital en audio o video que se puede descargar o escuchar vía streaming. Suele alojarse en una página web o blog, pero también en plataformas especializadas en audio como iTunes, Spotify o SoundCloud.',
     },
     {
       termino: '<em>Shooting</em>',
@@ -240,23 +240,23 @@ export default {
   referencias: [
     {
       referencia:
-        'Ángeles, 2020, Contenidos digitales: qué son, tipos y ejemplos, Recuperado de ',
+        'Ángeles. (2020). Contenidos digitales: qué son, tipos y ejemplos. ',
       link: 'https://www.pantallea.com/contenidos-digitales-tipos-ejemplos/',
     },
     {
       referencia:
-        'Diana Agudelo, 2019. ¿Qué es una estrategia de contenidos y por qué es importante?, Recuperado de ',
+        'Agudelo, D. (2019). ¿Qué es una estrategia de contenidos y por qué es importante? ',
       link: 'https://www.triario.co/blog/que-es-una-estrategia-contenidos',
     },
     {
       referencia:
-        'Luz Peréz Baz, 2020. Los 4 tipos de objetivos que tienes que definir para el éxito de tu negocio. Recuperado de ',
+        'Pérez Baz, L. (2020). Los 4 tipos de objetivos que tienes que definir para el éxito de tu negocio. ',
       link:
         'https://www.makinglovemarks.es/blog/objetivos-estrategia-comunicacion/',
     },
     {
       referencia:
-        'Organización Mundial de Propiedad Intelectual OMPI, 2018. La propiedad intelectual en el ámbito digital, Recuperado de ',
+        'Organización Mundial de la Propiedad Intelectual, OMPI. (2018). La propiedad intelectual en el ámbito digital. ',
       link: 'https://www.wipo.int/ip-outreach/es/ipday/2016/ip_digital.html',
     },
   ],

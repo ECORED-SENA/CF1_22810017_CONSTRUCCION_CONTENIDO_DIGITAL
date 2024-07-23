@@ -20,10 +20,10 @@
     figure(data-aos="fade-up")
       .video.mb-5
         iframe(width="560" height="315" src="https://www.youtube.com/embed/SFR7uBY4o0A?si=jEGH37KZgOIrblou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+    p.mb-5 Lo invitamos a descargar el formato del calendario de contenido, el cual le ayudará con la planeación de los contenidos digitales que desea crear.
     .row.mb-4(data-aos="fade-up")
       .col-lg-4
-        a.anexo.mb-4(:href="obtenerLink('/downloads/A1_CF01_4_Calendario.xlsx')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Formato_calendario_de_contenido.xlsx')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-xls.svg")
           .anexo__texto
@@ -108,7 +108,7 @@
                   | ¿A quién intentas llegar? ¿Qué tipo de contenido consumen? ¿Qué nivel de conocimiento poseen? Cuando comprendas quiénes son esas personas "adecuadas", podrás identificar mejor cómo crear contenido que les interese. 
                 li.mb-0
                   i.fas.fa-check
-                  | ¿Qué canales utilizarás? Vas a querer apuntar a los canales más efectivos y relevantes para llegar a las personas. Una estrategia de distribución sólida, generalmente incluye una combinación de medios.  
+                  | ¿Qué canales utilizarás? Vas a querer apuntar a los canales más efectivos y relevantes para llegar a las personas. Una estrategia de distribución sólida generalmente incluye una combinación de medios.  
 
     .row.justify-content-center
       .col-lg-8

@@ -21,8 +21,7 @@
     p(data-aos="fade-up") A través de la web, se pueden encontrar recursos muy interesantes que se utilizan para enriquecer los contenidos digitales como imágenes, videos, audio, entre otros. Sin embargo, es importante diferenciar qué tipo de contenidos se puede usar y cuándo los derechos de autor permiten su reutilización.
       br
       br
-      | Es por eso que, a continuación, 
-      b abordaremos los diferentes tipos de licencias:
+      | Por ello, a continuación, #[b examinaremos los diferentes tipos de licencias]:
 
     //-- tabs
     TabsC.mb-5(data-aos="fade-up")
