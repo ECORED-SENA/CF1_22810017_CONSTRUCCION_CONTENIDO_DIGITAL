@@ -193,7 +193,7 @@
 
     .row.align-items-center.mb-5(data-aos="fade-up")
       .col-lg-7.mb-4.mb-lg-0
-        p.mb-0  El sitio donde se encuentre alojado el dominio público, podrá solicitar que se haga una atribución al creador del contenido o al sitio que aloja al contenido.
+        p.mb-0  El sitio donde se encuentre alojado el dominio público podrá solicitar que se haga una atribución al creador del contenido o al sitio que aloja al contenido.
           br
           br
           | En la biblioteca musical de YouTube por ejemplo, se puede filtrar la búsqueda por archivo de audio que requiera atribución y los que no lo necesiten.
